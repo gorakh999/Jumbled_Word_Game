@@ -1,7 +1,7 @@
 import random
 
 def choose():
-  words=["rainbow","computer","science","programming", "mathematics","player","condition","reverse","water","board"]
+  words=["rainbow","computer","science","programming", "mathematics","player","condition","reverse","water","board", "apple", "queen", "hack", "october", "fest"]
   pick=random.choice(words)
   return pick
 

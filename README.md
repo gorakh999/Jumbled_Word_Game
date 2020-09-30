@@ -1,4 +1,3 @@
-# Jumbled_Word_Game
+# Jumbled Word Game
 
-# THIS IS A JUMBLED WORD GAME 
-# IN THIS GAME YOU WILL BE RANDOMELY GIVEN A WORD WITH JUMBLED CHARACTER . YOU HAVE TO TELL THE CORRECT WORD
+in this game you will be given a word in random characters and you have to guess the correct Word.
